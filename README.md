@@ -1,6 +1,6 @@
 # lazyraiders
 
-URL: https://dalechou.github.io/lazyraiders/
+URL: https://hakama99.github.io/lazyraiders/
 
 This tool provides an overview of World of Warcraft raiders with their item level and latest mythic+ activity.
 
